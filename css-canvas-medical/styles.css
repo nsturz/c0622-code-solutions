@@ -1,0 +1,196 @@
+a {
+  font-family: avenir, sans-serif;
+  text-decoration: none;
+  font-size: 10px;
+}
+
+button {
+  font-family: avenir, sans-serif;
+  color: #fcfcfc;
+  background-color: #294363;
+  border-style: none;
+  border-radius: 3px;
+}
+
+p {
+  font-size: 10px;
+  font-family: avenir, sans-serif;
+  line-height: 20px;
+}
+
+li {
+  font-family: avenir, sans-serif;
+  font-size: 13px;
+  line-height: 30px;
+  list-style: none;
+}
+
+h1 {
+  font-family: "tiempos headline", sans-serif;
+}
+
+h4 {
+  font-family: "tiempos headline", sans-serif;
+  font-size: 20px;
+}
+
+footer {
+  background-color: #fafafa;
+  height: 100px;
+  align-items: center;
+}
+
+hr {
+  width: 90%;
+  height: 1px;
+  border-style: none;
+  background-color: #f0f1f3;
+  margin-bottom: 5%;
+}
+
+nav {
+  padding-right: 90px;
+  padding-top: 20px;
+  left: 25%;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.address {
+  top: 30%;
+  left: 8%;
+}
+
+.background-color-grey {
+  background-color: #525351;
+}
+
+.button-parent {
+  left: 55%;
+  padding-top: 5%;
+}
+
+.button-position {
+  bottom: 10%;
+  left: 15%;
+}
+
+.container {
+  max-width: 800px;
+}
+
+.company-product {
+  top: 22%;
+  left: 30%;
+}
+
+.clinicians {
+  background-color: #fafafa;
+  height: 300px;
+  margin-top: 6%;
+}
+
+.column-text {
+  padding-top: 20px;
+}
+
+.color-white {
+  color: #fcfcfc;
+}
+
+.color-grey {
+  color: #6e6e6e;
+}
+
+.contact-us {
+  height: 28px;
+  width: 80px;
+  font-size: 10px;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-direction {
+  flex-direction: column;
+}
+
+.footer-content {
+  left: 2%;
+  padding-left: 3%;
+  font-size: 12px;
+}
+
+.get-started {
+  height: 35px;
+  width: 120px;
+}
+
+.h1-position {
+  top: 10%;
+  left: 15%;
+}
+
+.hero-img {
+  width: 80%;
+}
+
+.hero-img-styling {
+  top: 0;
+  left: 10%;
+  background: linear-gradient(transparent, rgb(50 50 50/60%));
+  width: 640px;
+  height: 360px;
+}
+
+.justify-content {
+  justify-content: center;
+}
+
+.learn-more {
+  left: 5%;
+}
+
+.logo,
+.logo-bottom {
+  width: 100px;
+}
+
+.logo-blue-padding {
+  padding-left: 85px;
+  padding-top: 20px;
+}
+
+.margin-auto {
+  margin: auto;
+}
+
+.nav-text {
+  padding-right: 20px;
+}
+
+.product {
+  position: relative;
+  left: 30%;
+}
+
+.p-position {
+  top: 33%;
+  left: 15%;
+}
+
+.relative {
+  position: relative;
+}
+
+.section-bottom {
+  height: 300px;
+}
+
+.width-thirty-percent {
+  width: 35%;
+  margin-left: 10%;
+}
